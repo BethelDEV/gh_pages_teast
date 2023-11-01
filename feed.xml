@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>tea</title>
+    <link href="https://betheldev.github.io/gh_pages_teast/feed.xml" rel="self" />
+    <link href="https://betheldev.github.io/gh_pages_teast" />
+    <updated>2023-11-01T15:16:49+08:00</updated>
+    <author>
+        <name>mike</name>
+    </author>
+    <id>https://betheldev.github.io/gh_pages_teast</id>
+
+    <entry>
+        <title>jo</title>
+        <author>
+            <name>mike</name>
+        </author>
+        <link href="https://betheldev.github.io/gh_pages_teast/jo.html"/>
+        <id>https://betheldev.github.io/gh_pages_teast/jo.html</id>
+
+        <updated>2023-11-01T15:16:49+08:00</updated>
+            <summary>
+                <![CDATA[
+                    na an n/l/l看电视卡洛斯了
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>na an n/l/l看电视卡洛斯了</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
